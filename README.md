@@ -1,4 +1,4 @@
-# Home lightning System
+# Room lightning System
 
 ## Description:-
 This is a Motion and intensity based Room lightning system.
